@@ -13,13 +13,9 @@
 
 - Links redirect to respective ACM clubs
 
-| <a href="https://www.facebook.com/cnuacm" target="_blank">Christopher Newport University</a> | <a href="https://huacm.wordpress.com/" target="_blank">Hampton University</a> |
-|:--:|:--:|
-| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/CNU_logo.svg/760px-CNU_logo.svg.png"> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Hampton_University_Seal.png"> |
-
-| <a href="http://www.cs.odu.edu/~acm/" target="_blank">Old Dominion University</a> | <a href="https://wp.vcu.edu/vcuacm" target="_blank">Virginia Commonwealth University</a> |
-|:--:|:--:|
-| <img src="https://www.odu.edu/etc/designs/odu/images/odu_seal.png"> | <img src="http://www.rjcf.org/images/VCUEmblemC.jpg"> |
+| <a href="https://www.facebook.com/cnuacm" target="_blank">Christopher Newport University</a> | <a href="https://huacm.wordpress.com/" target="_blank">Hampton University</a> | <a href="http://www.cs.odu.edu/~acm/" target="_blank">Old Dominion University</a> | <a href="https://wp.vcu.edu/vcuacm" target="_blank">Virginia Commonwealth University</a> |
+|:--:|:--:|:--:|:--:|
+| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/CNU_logo.svg/760px-CNU_logo.svg.png"> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Hampton_University_Seal.png"> | <img src="https://www.odu.edu/etc/designs/odu/images/odu_seal.png"> | <img src="http://www.rjcf.org/images/VCUEmblemC.jpg"> |
 
 ---
 
