@@ -32,30 +32,30 @@
 
 ## Index
 
-- [Budget](#section-budget)
-- [Catering](#section-catering)
-- [Registration](#section-registration)
-- [Speakers](#section-speakers)
-- [Sponsors](#section-sponsors)
+- [Budget](#budget)
+- [Catering](#catering)
+- [Registration](#registration)
+- [Speakers](#speakers)
+- [Sponsors](#sponsors)
     - Local
     - National
-- [Promotion](#section-promotion)
+- [Promotion](#promotion)
     - Logo
     - Social Media
-- [Venue](#section-venue)
-- [Website](#section-venue)
+- [Venue](#venue)
+- [Website](#website)
 
 ---
 
-### Budget [section-budget]
+### Budget
 
 ---
 
-### Catering [section-catering]
+### Catering
 
 ---
 
-### Registration [section-registration]
+### Registration
 
 - Conference Guide - <a href="https://guidebook.com/" target="_blank">Guidebook</a>
 - Registration - <a href="https://eventbrite.com" target="_blank">Eventbrite</a>
@@ -63,14 +63,14 @@
 
 ---
 
-### Speakers [section-speakers]
+### Speakers
 
 - ideal to get at least one speaker from each ACM chapter
 - preferably should focus on modern technologies used in industry
 
 ---
 
-### Sponsors [section-sponsors]
+### Sponsors
 
 #### Local
 
@@ -99,11 +99,11 @@
 
 ---
 
-### Promotion [section-promotion]
+### Promotion
 
-#### Logo [section-logo]
+#### Logo
 
-#### Social Media [section-social]
+#### Social Media
 
 - <a href="http://lanyrd.com/dashboard/" target="_blank">Lanyrd</a>
     - speakers should register at Lanyrd
@@ -115,13 +115,13 @@
 
 ---
 
-### Venue [section-venue]
+### Venue
 
 - Richmond, VA
 
 ---
 
-### Website [section-venue]
+### Website
 
 - website will be hosted in this GitHub repo using a theme bought from <a href="http://themeforest.net/" target="_blank">Themeforest</a>
 - GitHub hosting
